@@ -5,6 +5,7 @@ int main()
 	printf("enter no of frames\n");
 	scanf("%d",&n);
 	long int fr[n];
+	printf("Enter the frames\n");
 	int i;
 	for(i=0;i<n;i++)
 	scanf("%ld",&fr[i]);
